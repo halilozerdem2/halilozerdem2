@@ -19,7 +19,7 @@ Here are some of my notable projects:
 - **[2048 - Puzzle](https://github.com/halilozerdem2/2048-Game):** A classic puzzle game developed using C# and Unity.
 - **[JumperY - Endless Runner Game](https://github.com/halilozerdem2/JumperY):** An endless runner game developed using Unity and C#.
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/halilozerdem2)
+- [LinkedIn](https://www.linkedin.com/in/ozerdemhalil/)
 - [Linktree](https://linktr.ee/halilozerdem2)
-- [Itch.io](https://halilozerdem2.itch.io)
+- [Itch.io](https://halilozerdem.itch.io/)
 Let's connect and collaborate on exciting game development projects!
